@@ -1,0 +1,1 @@
+ INSERT INTO `cardcloud`.`t_sys_module`( `name`, `code`, `url`, `description`, `icon`, `pid`, `seq`, `status`, `create_time`, `update_time`, `operator`, `data_status`, `use_status`) VALUES ( 'App广告数据', 'menu_appgl_xtgg', NULL, 'App广告数据', NULL, 650, 1206, 6, '2019-12-18 13:57:01', '2019-12-18 13:57:01', 'admin', 'Y', 1);
